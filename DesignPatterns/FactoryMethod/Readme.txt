@@ -1,23 +1,25 @@
-﻿
-The Prototype Pattern 
-
-The Prototype pattern is a creational pattern in which objects are created using a prototypical instance of said object.  
-This pattern is particularly useful for creating lots of instances of an object, 
-all of which share some or all of their values.
+﻿Factory Method
+It is tedious when the client needs to specify the class name while creating the objects. 
+So, to resolve this problem, we can use the Factory Method design pattern. 
+It provides the client with a simple way to create the object.
 
 
-The situation in which this pattern as being the most useful is when all of the following happens:
+    Product
+     
+    This defines the interface of objects the factory method creates
 
-    You need to create a lot of instances of an object,
-    AND those instances will be the same or similar as the prototypical instance.
-    AND creating a new instance of this object would be markedly slower than cloning an existing instance.
+    ConcreteProduct
+     
+    This is a class that implements the Product interface.
 
-What you need to implement?
+    Creator
+     
+    This is an abstract class and declares the factory method, which returns an object of type Product.
+     
+    This may also define a default implementation of the factory method that returns a default ConcreteProduct object.
+    This may call the factory method to create a Product object.
 
-    The Prototype declares an interface for cloning itself.
-    The ConcretePrototype implements the cloning operation defined in the Prototype.
-    The Client creates a new object by asking the Prototype to clone itself.
+    ConcreteCreator
+     
+    This is a class that implements the Creator class and overrides the factory method to return an instance of a ConcreteProduct.
 
-
-    this.MemberwiseClone();
-    it create the instance of the class
