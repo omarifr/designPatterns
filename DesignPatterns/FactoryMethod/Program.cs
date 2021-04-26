@@ -11,7 +11,7 @@ namespace FactoryMethod
 
             while (motorTypeSelected!="E")
             {
-                Console.WriteLine("What kink of motor you want? (G-Gasoline, D-Diesel, E-Exit)");
+                Console.WriteLine("What kind of motor you want? (G-Gasoline, D-Diesel, E-Exit)");
                 motorTypeSelected = Console.ReadLine();
                 MotorFactory motorFactory = null;
 

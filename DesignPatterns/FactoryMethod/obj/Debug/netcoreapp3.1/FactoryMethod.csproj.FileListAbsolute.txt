@@ -4,7 +4,6 @@ C:\DesignPatterns\DesignPatterns\FactoryMethod\bin\Debug\netcoreapp3.1\FactoryMe
 C:\DesignPatterns\DesignPatterns\FactoryMethod\bin\Debug\netcoreapp3.1\FactoryMethod.runtimeconfig.dev.json
 C:\DesignPatterns\DesignPatterns\FactoryMethod\bin\Debug\netcoreapp3.1\FactoryMethod.dll
 C:\DesignPatterns\DesignPatterns\FactoryMethod\bin\Debug\netcoreapp3.1\FactoryMethod.pdb
-C:\DesignPatterns\DesignPatterns\FactoryMethod\obj\Debug\netcoreapp3.1\FactoryMethod.csprojAssemblyReference.cache
 C:\DesignPatterns\DesignPatterns\FactoryMethod\obj\Debug\netcoreapp3.1\FactoryMethod.AssemblyInfoInputs.cache
 C:\DesignPatterns\DesignPatterns\FactoryMethod\obj\Debug\netcoreapp3.1\FactoryMethod.AssemblyInfo.cs
 C:\DesignPatterns\DesignPatterns\FactoryMethod\obj\Debug\netcoreapp3.1\FactoryMethod.csproj.CoreCompileInputs.cache
