@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\DesignPatterns\\DesignPatterns\\FactoryMethod\\FactoryMethod.csproj": {}
+    "C:\\DesignPatterns\\DesignPatterns\\Singleton\\Singleton.csproj": {}
   },
   "projects": {
-    "C:\\DesignPatterns\\DesignPatterns\\FactoryMethod\\FactoryMethod.csproj": {
+    "C:\\DesignPatterns\\DesignPatterns\\Singleton\\Singleton.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\DesignPatterns\\DesignPatterns\\FactoryMethod\\FactoryMethod.csproj",
-        "projectName": "FactoryMethod",
-        "projectPath": "C:\\DesignPatterns\\DesignPatterns\\FactoryMethod\\FactoryMethod.csproj",
+        "projectUniqueName": "C:\\DesignPatterns\\DesignPatterns\\Singleton\\Singleton.csproj",
+        "projectName": "Singleton",
+        "projectPath": "C:\\DesignPatterns\\DesignPatterns\\Singleton\\Singleton.csproj",
         "packagesPath": "C:\\Users\\omar franco\\.nuget\\packages\\",
-        "outputPath": "C:\\DesignPatterns\\DesignPatterns\\FactoryMethod\\obj\\",
+        "outputPath": "C:\\DesignPatterns\\DesignPatterns\\Singleton\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

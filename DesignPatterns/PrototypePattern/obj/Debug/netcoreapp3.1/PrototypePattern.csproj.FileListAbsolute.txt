@@ -4,7 +4,6 @@ C:\DesignPatterns\DesignPatterns\PrototypePattern\bin\Debug\netcoreapp3.1\Protot
 C:\DesignPatterns\DesignPatterns\PrototypePattern\bin\Debug\netcoreapp3.1\PrototypePattern.runtimeconfig.dev.json
 C:\DesignPatterns\DesignPatterns\PrototypePattern\bin\Debug\netcoreapp3.1\PrototypePattern.dll
 C:\DesignPatterns\DesignPatterns\PrototypePattern\bin\Debug\netcoreapp3.1\PrototypePattern.pdb
-C:\DesignPatterns\DesignPatterns\PrototypePattern\obj\Debug\netcoreapp3.1\PrototypePattern.csprojAssemblyReference.cache
 C:\DesignPatterns\DesignPatterns\PrototypePattern\obj\Debug\netcoreapp3.1\PrototypePattern.AssemblyInfoInputs.cache
 C:\DesignPatterns\DesignPatterns\PrototypePattern\obj\Debug\netcoreapp3.1\PrototypePattern.AssemblyInfo.cs
 C:\DesignPatterns\DesignPatterns\PrototypePattern\obj\Debug\netcoreapp3.1\PrototypePattern.csproj.CoreCompileInputs.cache

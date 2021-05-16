@@ -10,3 +10,4 @@ C:\DesignPatterns\DesignPatterns\FactoryMethod\obj\Debug\netcoreapp3.1\FactoryMe
 C:\DesignPatterns\DesignPatterns\FactoryMethod\obj\Debug\netcoreapp3.1\FactoryMethod.dll
 C:\DesignPatterns\DesignPatterns\FactoryMethod\obj\Debug\netcoreapp3.1\FactoryMethod.pdb
 C:\DesignPatterns\DesignPatterns\FactoryMethod\obj\Debug\netcoreapp3.1\FactoryMethod.genruntimeconfig.cache
+C:\DesignPatterns\DesignPatterns\FactoryMethod\obj\Debug\netcoreapp3.1\FactoryMethod.csprojAssemblyReference.cache
